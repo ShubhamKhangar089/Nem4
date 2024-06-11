@@ -1,0 +1,422 @@
+2024-06-11T06:00:17.727Z [INFO] - Server is running on port 6000
+2024-06-11T06:00:18.438Z [INFO] - MongoDB connected successfully.
+2024-06-11T06:00:18.732Z [INFO] - Running scheduled task
+2024-06-11T06:00:18.806Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:18.812Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:18.821Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:00:19.488Z [INFO] - Processing chunk: 2 / 50
+2024-06-11T06:00:19.840Z [INFO] - Running scheduled task
+2024-06-11T06:00:19.843Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:19.848Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:19.851Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:00:20.152Z [INFO] - Processing chunk: 3 / 50
+2024-06-11T06:00:20.668Z [INFO] - Processing chunk: 4 / 50
+2024-06-11T06:00:20.870Z [INFO] - Running scheduled task
+2024-06-11T06:00:20.873Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:20.876Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:20.878Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:00:21.069Z [INFO] - Processing chunk: 2 / 50
+2024-06-11T06:00:21.116Z [INFO] - Processing chunk: 2 / 50
+2024-06-11T06:00:21.305Z [INFO] - Processing chunk: 3 / 50
+2024-06-11T06:00:21.338Z [INFO] - Processing chunk: 5 / 50
+2024-06-11T06:00:21.539Z [INFO] - Processing chunk: 4 / 50
+2024-06-11T06:00:21.620Z [INFO] - Processing chunk: 6 / 50
+2024-06-11T06:00:21.885Z [INFO] - Running scheduled task
+2024-06-11T06:00:21.891Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:21.896Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:21.899Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:00:21.976Z [INFO] - Processing chunk: 5 / 50
+2024-06-11T06:00:22.046Z [INFO] - Processing chunk: 3 / 50
+2024-06-11T06:00:22.663Z [INFO] - Processing chunk: 2 / 50
+2024-06-11T06:00:22.932Z [INFO] - Processing chunk: 4 / 50
+2024-06-11T06:00:22.992Z [INFO] - Running scheduled task
+2024-06-11T06:00:23.013Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:23.027Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:23.035Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:00:23.128Z [INFO] - Processing chunk: 7 / 50
+2024-06-11T06:00:23.340Z [INFO] - Processing chunk: 3 / 50
+2024-06-11T06:00:23.491Z [INFO] - Processing chunk: 5 / 50
+2024-06-11T06:00:23.585Z [INFO] - Processing chunk: 2 / 50
+2024-06-11T06:00:23.670Z [INFO] - Processing chunk: 6 / 50
+2024-06-11T06:00:23.874Z [INFO] - Processing chunk: 4 / 50
+2024-06-11T06:00:24.053Z [INFO] - Running scheduled task
+2024-06-11T06:00:24.057Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:24.060Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:24.063Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:00:24.387Z [INFO] - Processing chunk: 6 / 50
+2024-06-11T06:00:24.416Z [INFO] - Processing chunk: 3 / 50
+2024-06-11T06:00:24.757Z [INFO] - Processing chunk: 7 / 50
+2024-06-11T06:00:24.975Z [INFO] - Processing chunk: 8 / 50
+2024-06-11T06:00:25.105Z [INFO] - Running scheduled task
+2024-06-11T06:00:25.108Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:25.111Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:25.113Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:00:25.256Z [INFO] - Processing chunk: 5 / 50
+2024-06-11T06:00:25.502Z [INFO] - Processing chunk: 2 / 50
+2024-06-11T06:00:25.760Z [INFO] - Processing chunk: 4 / 50
+2024-06-11T06:00:25.878Z [INFO] - Processing chunk: 8 / 50
+2024-06-11T06:00:25.994Z [INFO] - Processing chunk: 9 / 50
+2024-06-11T06:00:26.130Z [INFO] - Running scheduled task
+2024-06-11T06:00:26.137Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:26.142Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:26.146Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:00:26.336Z [INFO] - Processing chunk: 6 / 50
+2024-06-11T06:00:26.432Z [INFO] - Processing chunk: 3 / 50
+2024-06-11T06:00:26.525Z [INFO] - Processing chunk: 7 / 50
+2024-06-11T06:00:26.847Z [INFO] - Processing chunk: 2 / 50
+2024-06-11T06:00:27.214Z [INFO] - Running scheduled task
+2024-06-11T06:00:27.217Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:27.220Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:27.222Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:00:27.355Z [INFO] - Processing chunk: 10 / 50
+2024-06-11T06:00:27.388Z [INFO] - Processing chunk: 2 / 50
+2024-06-11T06:00:27.603Z [INFO] - Processing chunk: 7 / 50
+2024-06-11T06:00:27.864Z [INFO] - Processing chunk: 4 / 50
+2024-06-11T06:00:28.037Z [INFO] - Processing chunk: 8 / 50
+2024-06-11T06:00:28.083Z [INFO] - Processing chunk: 5 / 50
+2024-06-11T06:00:28.126Z [INFO] - Processing chunk: 9 / 50
+2024-06-11T06:00:28.235Z [INFO] - Running scheduled task
+2024-06-11T06:00:28.262Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:28.281Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:28.288Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:00:28.557Z [INFO] - Processing chunk: 3 / 50
+2024-06-11T06:00:28.844Z [INFO] - Processing chunk: 2 / 50
+2024-06-11T06:00:29.337Z [INFO] - Running scheduled task
+2024-06-11T06:00:29.340Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:29.342Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:29.346Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:00:29.389Z [INFO] - Processing chunk: 3 / 50
+2024-06-11T06:00:29.511Z [INFO] - Processing chunk: 8 / 50
+2024-06-11T06:00:29.609Z [INFO] - Processing chunk: 5 / 50
+2024-06-11T06:00:29.990Z [INFO] - Processing chunk: 10 / 50
+2024-06-11T06:00:30.285Z [INFO] - Processing chunk: 2 / 50
+2024-06-11T06:00:30.423Z [INFO] - Processing chunk: 4 / 50
+2024-06-11T06:00:30.427Z [INFO] - Running scheduled task
+2024-06-11T06:00:30.430Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:30.437Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:30.439Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:00:30.604Z [INFO] - Processing chunk: 3 / 50
+2024-06-11T06:00:30.627Z [INFO] - Processing chunk: 11 / 50
+2024-06-11T06:00:30.728Z [INFO] - Processing chunk: 2 / 50
+2024-06-11T06:00:30.915Z [INFO] - Processing chunk: 4 / 50
+2024-06-11T06:00:31.496Z [INFO] - Processing chunk: 9 / 50
+2024-06-11T06:00:31.585Z [INFO] - Processing chunk: 9 / 50
+2024-06-11T06:00:31.639Z [INFO] - Running scheduled task
+2024-06-11T06:00:31.643Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:31.650Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:31.655Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:00:31.792Z [INFO] - Processing chunk: 6 / 50
+2024-06-11T06:00:31.983Z [INFO] - Processing chunk: 3 / 50
+2024-06-11T06:00:32.146Z [INFO] - Processing chunk: 6 / 50
+2024-06-11T06:00:32.285Z [INFO] - Processing chunk: 5 / 50
+2024-06-11T06:00:32.602Z [INFO] - Processing chunk: 4 / 50
+2024-06-11T06:00:32.877Z [INFO] - Running scheduled task
+2024-06-11T06:00:32.884Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:32.887Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:32.894Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:00:33.127Z [INFO] - Processing chunk: 12 / 50
+2024-06-11T06:00:33.382Z [INFO] - Processing chunk: 3 / 50
+2024-06-11T06:00:33.706Z [INFO] - Processing chunk: 5 / 50
+2024-06-11T06:00:34.083Z [INFO] - Running scheduled task
+2024-06-11T06:00:34.095Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:34.121Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:34.136Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:00:34.179Z [INFO] - Processing chunk: 10 / 50
+2024-06-11T06:00:34.401Z [INFO] - Processing chunk: 2 / 50
+2024-06-11T06:00:34.441Z [INFO] - Processing chunk: 10 / 50
+2024-06-11T06:00:34.480Z [INFO] - Processing chunk: 2 / 50
+2024-06-11T06:00:34.650Z [INFO] - Processing chunk: 4 / 50
+2024-06-11T06:00:34.939Z [INFO] - Processing chunk: 6 / 50
+2024-06-11T06:00:35.069Z [INFO] - Processing chunk: 7 / 50
+2024-06-11T06:00:35.223Z [INFO] - Processing chunk: 5 / 50
+2024-06-11T06:00:35.253Z [INFO] - Running scheduled task
+2024-06-11T06:00:35.256Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:35.259Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:35.264Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:00:35.555Z [INFO] - Processing chunk: 2 / 50
+2024-06-11T06:00:35.619Z [INFO] - Processing chunk: 11 / 50
+2024-06-11T06:00:35.841Z [INFO] - Processing chunk: 13 / 50
+2024-06-11T06:00:36.085Z [INFO] - Processing chunk: 2 / 50
+2024-06-11T06:00:36.160Z [INFO] - Processing chunk: 6 / 50
+2024-06-11T06:00:36.271Z [INFO] - Running scheduled task
+2024-06-11T06:00:36.276Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:36.278Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:36.281Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:00:36.644Z [INFO] - Processing chunk: 11 / 50
+2024-06-11T06:00:36.665Z [INFO] - Processing chunk: 7 / 50
+2024-06-11T06:00:36.758Z [INFO] - Processing chunk: 11 / 50
+2024-06-11T06:00:36.777Z [INFO] - Processing chunk: 3 / 50
+2024-06-11T06:00:36.898Z [INFO] - Processing chunk: 3 / 50
+2024-06-11T06:00:37.115Z [INFO] - Processing chunk: 4 / 50
+2024-06-11T06:00:37.301Z [INFO] - Running scheduled task
+2024-06-11T06:00:37.307Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:37.312Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:37.315Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:00:37.578Z [INFO] - Processing chunk: 5 / 50
+2024-06-11T06:00:37.732Z [INFO] - Processing chunk: 6 / 50
+2024-06-11T06:00:38.239Z [INFO] - Processing chunk: 3 / 50
+2024-06-11T06:00:38.340Z [INFO] - Running scheduled task
+2024-06-11T06:00:38.342Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:38.349Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:38.351Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:00:38.611Z [INFO] - Processing chunk: 7 / 50
+2024-06-11T06:00:38.650Z [INFO] - Processing chunk: 2 / 50
+2024-06-11T06:00:38.670Z [INFO] - Processing chunk: 12 / 50
+2024-06-11T06:00:38.710Z [INFO] - Processing chunk: 8 / 50
+2024-06-11T06:00:39.064Z [INFO] - Processing chunk: 3 / 50
+2024-06-11T06:00:39.132Z [INFO] - Processing chunk: 7 / 50
+2024-06-11T06:00:39.241Z [INFO] - Processing chunk: 2 / 50
+2024-06-11T06:00:39.443Z [INFO] - Processing chunk: 12 / 50
+2024-06-11T06:00:39.691Z [INFO] - Processing chunk: 8 / 50
+2024-06-11T06:00:39.817Z [INFO] - Processing chunk: 12 / 50
+2024-06-11T06:00:39.873Z [INFO] - Running scheduled task
+2024-06-11T06:00:39.876Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:39.887Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:39.892Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:00:40.010Z [INFO] - Processing chunk: 4 / 50
+2024-06-11T06:00:40.155Z [INFO] - Processing chunk: 4 / 50
+2024-06-11T06:00:40.588Z [INFO] - Processing chunk: 2 / 50
+2024-06-11T06:00:40.707Z [INFO] - Processing chunk: 14 / 50
+2024-06-11T06:00:40.775Z [INFO] - Processing chunk: 6 / 50
+2024-06-11T06:00:40.920Z [INFO] - Running scheduled task
+2024-06-11T06:00:40.926Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:40.933Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:40.951Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:00:41.032Z [INFO] - Processing chunk: 7 / 50
+2024-06-11T06:00:41.636Z [INFO] - Processing chunk: 2 / 50
+2024-06-11T06:00:41.675Z [INFO] - Processing chunk: 4 / 50
+2024-06-11T06:00:41.928Z [INFO] - Processing chunk: 8 / 50
+2024-06-11T06:00:42.112Z [INFO] - Processing chunk: 3 / 50
+2024-06-11T06:00:42.210Z [INFO] - Processing chunk: 13 / 50
+2024-06-11T06:00:42.290Z [INFO] - Running scheduled task
+2024-06-11T06:00:42.293Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:42.297Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:42.301Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:00:42.333Z [INFO] - Processing chunk: 9 / 50
+2024-06-11T06:00:42.428Z [INFO] - Processing chunk: 4 / 50
+2024-06-11T06:00:42.462Z [INFO] - Processing chunk: 5 / 50
+2024-06-11T06:00:42.979Z [INFO] - Processing chunk: 13 / 50
+2024-06-11T06:00:43.058Z [INFO] - Processing chunk: 9 / 50
+2024-06-11T06:00:43.176Z [INFO] - Processing chunk: 13 / 50
+2024-06-11T06:00:43.329Z [INFO] - Processing chunk: 2 / 50
+2024-06-11T06:00:43.441Z [INFO] - Processing chunk: 5 / 50
+2024-06-11T06:00:43.483Z [INFO] - Processing chunk: 5 / 50
+2024-06-11T06:00:43.547Z [INFO] - Running scheduled task
+2024-06-11T06:00:43.555Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:43.557Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:43.559Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:00:44.005Z [INFO] - Processing chunk: 3 / 50
+2024-06-11T06:00:44.179Z [INFO] - Processing chunk: 15 / 50
+2024-06-11T06:00:44.466Z [INFO] - Processing chunk: 8 / 50
+2024-06-11T06:00:44.619Z [INFO] - Processing chunk: 8 / 50
+2024-06-11T06:00:44.700Z [INFO] - Processing chunk: 2 / 50
+2024-06-11T06:00:44.714Z [INFO] - Processing chunk: 3 / 50
+2024-06-11T06:00:44.760Z [INFO] - Running scheduled task
+2024-06-11T06:00:44.768Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:44.772Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:44.775Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:00:45.574Z [INFO] - Processing chunk: 3 / 50
+2024-06-11T06:00:45.727Z [INFO] - Processing chunk: 14 / 50
+2024-06-11T06:00:45.768Z [INFO] - Processing chunk: 2 / 50
+2024-06-11T06:00:45.790Z [INFO] - Processing chunk: 9 / 50
+2024-06-11T06:00:45.843Z [INFO] - Processing chunk: 4 / 50
+2024-06-11T06:00:45.869Z [INFO] - Processing chunk: 5 / 50
+2024-06-11T06:00:45.895Z [INFO] - Running scheduled task
+2024-06-11T06:00:45.898Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:45.902Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:45.907Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:00:46.087Z [INFO] - Processing chunk: 10 / 50
+2024-06-11T06:00:46.176Z [INFO] - Processing chunk: 5 / 50
+2024-06-11T06:00:46.228Z [INFO] - Processing chunk: 6 / 50
+2024-06-11T06:00:46.376Z [INFO] - Processing chunk: 14 / 50
+2024-06-11T06:00:46.494Z [INFO] - Processing chunk: 7 / 50
+2024-06-11T06:00:46.569Z [INFO] - Processing chunk: 14 / 50
+2024-06-11T06:00:46.611Z [INFO] - Processing chunk: 3 / 50
+2024-06-11T06:00:46.673Z [INFO] - Processing chunk: 6 / 50
+2024-06-11T06:00:46.719Z [INFO] - Processing chunk: 6 / 50
+2024-06-11T06:00:46.775Z [INFO] - Processing chunk: 2 / 50
+2024-06-11T06:00:46.919Z [INFO] - Running scheduled task
+2024-06-11T06:00:46.925Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:46.927Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:46.929Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:00:47.777Z [INFO] - Processing chunk: 4 / 50
+2024-06-11T06:00:48.008Z [INFO] - Processing chunk: 16 / 50
+2024-06-11T06:00:48.122Z [INFO] - Processing chunk: 9 / 50
+2024-06-11T06:00:48.214Z [INFO] - Running scheduled task
+2024-06-11T06:00:48.219Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:48.225Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:48.228Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:00:48.539Z [INFO] - Processing chunk: 10 / 50
+2024-06-11T06:00:48.725Z [INFO] - Processing chunk: 9 / 50
+2024-06-11T06:00:48.755Z [INFO] - Processing chunk: 4 / 50
+2024-06-11T06:00:48.961Z [INFO] - Processing chunk: 4 / 50
+2024-06-11T06:00:48.993Z [INFO] - Processing chunk: 15 / 50
+2024-06-11T06:00:49.238Z [INFO] - Running scheduled task
+2024-06-11T06:00:49.242Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:49.245Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:49.247Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:00:49.586Z [INFO] - Processing chunk: 2 / 50
+2024-06-11T06:00:49.597Z [INFO] - Processing chunk: 3 / 50
+2024-06-11T06:00:49.614Z [INFO] - Processing chunk: 6 / 50
+2024-06-11T06:00:49.639Z [INFO] - Processing chunk: 10 / 50
+2024-06-11T06:00:49.686Z [INFO] - Processing chunk: 11 / 50
+2024-06-11T06:00:49.796Z [INFO] - Processing chunk: 6 / 50
+2024-06-11T06:00:49.923Z [INFO] - Processing chunk: 7 / 50
+2024-06-11T06:00:50.255Z [INFO] - Running scheduled task
+2024-06-11T06:00:50.259Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:50.263Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:50.265Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:00:50.508Z [INFO] - Processing chunk: 3 / 50
+2024-06-11T06:00:50.541Z [INFO] - Processing chunk: 5 / 50
+2024-06-11T06:00:50.652Z [INFO] - Processing chunk: 15 / 50
+2024-06-11T06:00:50.825Z [INFO] - Processing chunk: 15 / 50
+2024-06-11T06:00:50.893Z [INFO] - Processing chunk: 4 / 50
+2024-06-11T06:00:50.956Z [INFO] - Processing chunk: 7 / 50
+2024-06-11T06:00:51.001Z [INFO] - Processing chunk: 7 / 50
+2024-06-11T06:00:51.060Z [INFO] - Processing chunk: 3 / 50
+2024-06-11T06:00:51.276Z [INFO] - Running scheduled task
+2024-06-11T06:00:51.282Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:51.289Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:51.293Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:00:51.619Z [INFO] - Processing chunk: 2 / 50
+2024-06-11T06:00:51.702Z [INFO] - Processing chunk: 2 / 50
+2024-06-11T06:00:51.750Z [INFO] - Processing chunk: 8 / 50
+2024-06-11T06:00:52.086Z [INFO] - Processing chunk: 5 / 50
+2024-06-11T06:00:52.286Z [INFO] - Processing chunk: 17 / 50
+2024-06-11T06:00:52.397Z [INFO] - Running scheduled task
+2024-06-11T06:00:52.400Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:52.404Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:52.406Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:00:52.526Z [INFO] - Processing chunk: 10 / 50
+2024-06-11T06:00:52.626Z [INFO] - Processing chunk: 10 / 50
+2024-06-11T06:00:52.706Z [INFO] - Processing chunk: 2 / 50
+2024-06-11T06:00:52.762Z [INFO] - Processing chunk: 11 / 50
+2024-06-11T06:00:52.795Z [INFO] - Processing chunk: 5 / 50
+2024-06-11T06:00:53.416Z [INFO] - Running scheduled task
+2024-06-11T06:00:53.419Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:53.423Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:53.426Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:00:53.874Z [INFO] - Processing chunk: 5 / 50
+2024-06-11T06:00:54.105Z [INFO] - Processing chunk: 3 / 50
+2024-06-11T06:00:54.130Z [INFO] - Processing chunk: 16 / 50
+2024-06-11T06:00:54.203Z [INFO] - Processing chunk: 2 / 50
+2024-06-11T06:00:54.482Z [INFO] - Running scheduled task
+2024-06-11T06:00:54.489Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:54.493Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:54.503Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:00:54.657Z [INFO] - Processing chunk: 11 / 50
+2024-06-11T06:00:54.745Z [INFO] - Processing chunk: 12 / 50
+2024-06-11T06:00:54.785Z [INFO] - Processing chunk: 7 / 50
+2024-06-11T06:00:54.821Z [INFO] - Processing chunk: 8 / 50
+2024-06-11T06:00:54.952Z [INFO] - Processing chunk: 2 / 50
+2024-06-11T06:00:55.017Z [INFO] - Processing chunk: 6 / 50
+2024-06-11T06:00:55.577Z [INFO] - Processing chunk: 5 / 50
+2024-06-11T06:00:55.586Z [INFO] - Processing chunk: 16 / 50
+2024-06-11T06:00:55.606Z [INFO] - Processing chunk: 16 / 50
+2024-06-11T06:00:55.622Z [INFO] - Running scheduled task
+2024-06-11T06:00:55.626Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:55.632Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:55.634Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:00:55.705Z [INFO] - Processing chunk: 8 / 50
+2024-06-11T06:00:55.968Z [INFO] - Processing chunk: 8 / 50
+2024-06-11T06:00:56.199Z [INFO] - Processing chunk: 4 / 50
+2024-06-11T06:00:56.291Z [INFO] - Processing chunk: 2 / 50
+2024-06-11T06:00:56.407Z [INFO] - Processing chunk: 7 / 50
+2024-06-11T06:00:56.708Z [INFO] - Processing chunk: 3 / 50
+2024-06-11T06:00:56.719Z [INFO] - Processing chunk: 3 / 50
+2024-06-11T06:00:56.776Z [INFO] - Running scheduled task
+2024-06-11T06:00:56.781Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:56.787Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:56.790Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:00:56.815Z [INFO] - Processing chunk: 4 / 50
+2024-06-11T06:00:56.923Z [INFO] - Processing chunk: 9 / 50
+2024-06-11T06:00:56.962Z [INFO] - Processing chunk: 6 / 50
+2024-06-11T06:00:57.054Z [INFO] - Processing chunk: 4 / 50
+2024-06-11T06:00:57.537Z [INFO] - Processing chunk: 2 / 50
+2024-06-11T06:00:57.554Z [INFO] - Processing chunk: 11 / 50
+2024-06-11T06:00:57.611Z [INFO] - Processing chunk: 11 / 50
+2024-06-11T06:00:57.837Z [INFO] - Processing chunk: 6 / 50
+2024-06-11T06:00:57.890Z [INFO] - Processing chunk: 3 / 50
+2024-06-11T06:00:57.935Z [INFO] - Processing chunk: 12 / 50
+2024-06-11T06:00:58.055Z [INFO] - Running scheduled task
+2024-06-11T06:00:58.057Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:58.060Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:58.062Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:00:58.655Z [INFO] - Processing chunk: 2 / 50
+2024-06-11T06:00:58.725Z [INFO] - Processing chunk: 6 / 50
+2024-06-11T06:00:58.901Z [INFO] - Processing chunk: 3 / 50
+2024-06-11T06:00:58.919Z [INFO] - Processing chunk: 17 / 50
+2024-06-11T06:00:59.070Z [INFO] - Running scheduled task
+2024-06-11T06:00:59.073Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:59.075Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:00:59.077Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:00:59.523Z [INFO] - Processing chunk: 18 / 50
+2024-06-11T06:00:59.587Z [INFO] - Processing chunk: 13 / 50
+2024-06-11T06:00:59.633Z [INFO] - Processing chunk: 12 / 50
+2024-06-11T06:00:59.793Z [INFO] - Processing chunk: 8 / 50
+2024-06-11T06:01:00.055Z [INFO] - Processing chunk: 4 / 50
+2024-06-11T06:01:00.333Z [INFO] - Processing chunk: 7 / 50
+2024-06-11T06:01:00.351Z [INFO] - Processing chunk: 3 / 50
+2024-06-11T06:01:00.409Z [INFO] - Running scheduled task
+2024-06-11T06:01:00.411Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:01:00.413Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:01:00.415Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:01:00.590Z [INFO] - Processing chunk: 6 / 50
+2024-06-11T06:01:00.650Z [INFO] - Processing chunk: 17 / 50
+2024-06-11T06:01:00.760Z [INFO] - Processing chunk: 17 / 50
+2024-06-11T06:01:00.819Z [INFO] - Processing chunk: 2 / 50
+2024-06-11T06:01:01.424Z [INFO] - Running scheduled task
+2024-06-11T06:01:01.428Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:01:01.432Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:01:01.434Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:01:01.519Z [INFO] - Processing chunk: 5 / 50
+2024-06-11T06:01:01.641Z [INFO] - Processing chunk: 9 / 50
+2024-06-11T06:01:01.722Z [INFO] - Processing chunk: 3 / 50
+2024-06-11T06:01:01.761Z [INFO] - Processing chunk: 2 / 50
+2024-06-11T06:01:01.974Z [INFO] - Processing chunk: 4 / 50
+2024-06-11T06:01:02.077Z [INFO] - Processing chunk: 4 / 50
+2024-06-11T06:01:02.492Z [INFO] - Processing chunk: 7 / 50
+2024-06-11T06:01:02.571Z [INFO] - Running scheduled task
+2024-06-11T06:01:02.580Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:01:02.587Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:01:02.590Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:01:02.642Z [INFO] - Processing chunk: 2 / 50
+2024-06-11T06:01:02.706Z [INFO] - Processing chunk: 10 / 50
+2024-06-11T06:01:02.837Z [INFO] - Processing chunk: 5 / 50
+2024-06-11T06:01:03.053Z [INFO] - Processing chunk: 5 / 50
+2024-06-11T06:01:03.074Z [INFO] - Processing chunk: 9 / 50
+2024-06-11T06:01:03.171Z [INFO] - Processing chunk: 3 / 50
+2024-06-11T06:01:03.226Z [INFO] - Processing chunk: 12 / 50
+2024-06-11T06:01:03.240Z [INFO] - Processing chunk: 9 / 50
+2024-06-11T06:01:03.538Z [INFO] - Processing chunk: 12 / 50
+2024-06-11T06:01:03.587Z [INFO] - Processing chunk: 7 / 50
+2024-06-11T06:01:03.606Z [INFO] - Processing chunk: 4 / 50
+2024-06-11T06:01:03.629Z [INFO] - Processing chunk: 2 / 50
+2024-06-11T06:01:03.645Z [INFO] - Processing chunk: 13 / 50
+2024-06-11T06:01:03.660Z [INFO] - Running scheduled task
+2024-06-11T06:01:03.663Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:01:03.667Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:01:03.670Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:01:03.741Z [INFO] - Processing chunk: 8 / 50
+2024-06-11T06:01:04.619Z [INFO] - Processing chunk: 18 / 50
+2024-06-11T06:01:04.669Z [INFO] - Processing chunk: 7 / 50
+2024-06-11T06:01:04.693Z [INFO] - Running scheduled task
+2024-06-11T06:01:04.696Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:01:04.701Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:01:04.704Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:01:04.727Z [INFO] - Processing chunk: 4 / 50
+2024-06-11T06:01:04.761Z [INFO] - Processing chunk: 3 / 50
+2024-06-11T06:01:05.617Z [INFO] - Processing chunk: 19 / 50
+2024-06-11T06:01:05.664Z [INFO] - Processing chunk: 13 / 50
+2024-06-11T06:01:05.713Z [INFO] - Processing chunk: 5 / 50
+2024-06-11T06:01:05.741Z [INFO] - Processing chunk: 14 / 50
+2024-06-11T06:01:05.758Z [INFO] - Processing chunk: 9 / 50
+2024-06-11T06:01:05.773Z [INFO] - Running scheduled task
+2024-06-11T06:01:05.775Z [INFO] - Read data from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:01:05.778Z [INFO] - Parsed data successfully from file: D:\Desktop\unit6-nodejs\sprint4\evaluation\evaluation\MOCK_DATA.json
+2024-06-11T06:01:05.779Z [INFO] - Processing chunk: 1 / 50
+2024-06-11T06:01:05.862Z [INFO] - Processing chunk: 4 / 50
+2024-06-11T06:02:37.541Z [INFO] - Server is running on port 6000
+2024-06-11T06:02:38.206Z [INFO] - MongoDB connected successfully.
+2024-06-11T06:03:48.674Z [INFO] - Server is running on port 7000
+2024-06-11T06:03:49.309Z [INFO] - MongoDB connected successfully.
